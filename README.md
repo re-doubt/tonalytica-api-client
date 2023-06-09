@@ -1,8 +1,8 @@
 # TONalytica-API-Client
 
-[![PyPI version fury.io](https://badge.fury.io/py/tonalytica-api-client.svg)](https://pypi.org/project/tonalytica-api-client/)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/tonalytica-api-client.svg)](https://pypi.python.org/pypi/tonalytica-api-client/)
-[![PyPI license](https://img.shields.io/pypi/l/tonalytica-api-client.svg)](https://pypi.python.org/pypi/tonalytica-api-client/)
+[![PyPI version fury.io](https://badge.fury.io/py/tonalytica-client.svg)](https://pypi.org/project/tonalytica-client/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/tonalytica-client.svg)](https://pypi.python.org/pypi/tonalytica-client/)
+[![PyPI license](https://img.shields.io/pypi/l/tonalytica-client.svg)](https://pypi.python.org/pypi/tonalytica-client/)
 
 
 The official API client and utilities to manage a TONalytica instance written in Python.
