@@ -1,9 +1,9 @@
 # TONalytica-API-Client
 
-[![PyPI version fury.io](https://badge.fury.io/py/redash-api-client.svg)](https://pypi.org/project/redash-api-client/)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/redash-api-client.svg)](https://pypi.python.org/pypi/redash-api-client/)
-[![PyPI license](https://img.shields.io/pypi/l/redash-api-client.svg)](https://pypi.python.org/pypi/redash-api-client/)
-[![Downloads](https://pepy.tech/badge/redash-api-client)](https://pepy.tech/project/redash-api-client)
+[![PyPI version fury.io](https://badge.fury.io/py/tonalytica-api-client.svg)](https://pypi.org/project/tonalytica-api-client/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/tonalytica-api-client.svg)](https://pypi.python.org/pypi/tonalytica-api-client/)
+[![PyPI license](https://img.shields.io/pypi/l/tonalytica-api-client.svg)](https://pypi.python.org/pypi/tonalytica-api-client/)
+
 
 The official API client and utilities to manage a TONalytica instance written in Python.
 
